@@ -146,7 +146,7 @@ source = 0
 destination = 49
 
 # total flow to be sent
-K = 500
+K = 1800
 
 # number of nodes
 N = len(G.nodes())
