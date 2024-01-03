@@ -1,1 +1,1 @@
-Install neccessary dependencies before running the program
+Install neccessary dependencies before running the simulation
